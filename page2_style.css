@@ -241,17 +241,19 @@ nav.fixed-top{
 
 .text-block {
     width: 300px;
-    height: 200px;
+    /* height: 200px; */
     background-color: #E2DCDC;
     
 }
 .text-w {
-    width: 220px;
+    /* width: 220px; */
     color:#9F9A9A;
 }
 .text-w h4 {
     color:#8D8585;
 }
+
+
 .subtitle_text::after {
     content:"";
     width: 180px;
@@ -345,4 +347,8 @@ footer{
 .fa.fa-bars{
     color:#707070;
     padding-top: 10px;
+}
+
+h4.subtitle_text{
+    color: #858D85;
 }
