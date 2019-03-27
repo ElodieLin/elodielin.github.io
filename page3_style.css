@@ -232,7 +232,7 @@ nav.fixed-top{
 
 .text-block {
     width: 300px;
-    height: 200px;
+    /* height: 200px; */
     background-color: #E2DCDC;
     
 }
@@ -249,7 +249,7 @@ nav.fixed-top{
     /* right: -200px; */
 }
 .text-w {
-    width: 220px;
+    /* width: 220px; */
     color:#9F9A9A;
 }
 .text-w h4 {
